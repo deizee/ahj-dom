@@ -10,6 +10,7 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "class-methods-use-this": "off"
   }
 }
